@@ -4,7 +4,7 @@
 
 | Name            | Role              | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
-| Jason Emmanuel  | Project Developer | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+| Jason Emmanuel  | Data Engineer | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
 This time we will support the Machine Learning team in building a Machine 
 Learning pipeline for three fictitious Mobility-As-A-Service vendors 
